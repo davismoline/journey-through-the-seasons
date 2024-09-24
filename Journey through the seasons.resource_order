@@ -18,6 +18,10 @@
   ],
   "ResourceOrderSettings":[
     {"name":"oEnemyDefeat","order":1,"path":"objects/oEnemyDefeat/oEnemyDefeat.yy",},
+    {"name":"oGround","order":4,"path":"objects/oGround/oGround.yy",},
+    {"name":"oIcefall","order":5,"path":"objects/oIcefall/oIcefall.yy",},
+    {"name":"oPlayer","order":2,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oWinterGround","order":3,"path":"objects/oWinterGround/oWinterGround.yy",},
     {"name":"PlayRoom","order":1,"path":"rooms/PlayRoom/PlayRoom.yy",},
     {"name":"fall","order":2,"path":"sounds/fall/fall.yy",},
     {"name":"link_hurt","order":3,"path":"sounds/link_hurt/link_hurt.yy",},
