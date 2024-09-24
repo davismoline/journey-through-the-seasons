@@ -19,7 +19,6 @@
   "ResourceOrderSettings":[
     {"name":"oButton","order":1,"path":"objects/oButton/oButton.yy",},
     {"name":"oEnemyDefeat","order":2,"path":"objects/oEnemyDefeat/oEnemyDefeat.yy",},
-    {"name":"PlayRoom","order":1,"path":"rooms/PlayRoom/PlayRoom.yy",},
     {"name":"RTitle","order":2,"path":"rooms/RTitle/RTitle.yy",},
     {"name":"fall","order":1,"path":"sounds/fall/fall.yy",},
     {"name":"link_hurt","order":2,"path":"sounds/link_hurt/link_hurt.yy",},

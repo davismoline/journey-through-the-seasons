@@ -44,7 +44,6 @@
     {"id":{"name":"obj_temp_pickup","path":"objects/obj_temp_pickup/obj_temp_pickup.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"oEnemyDefeat","path":"objects/oEnemyDefeat/oEnemyDefeat.yy",},},
-    {"id":{"name":"PlayRoom","path":"rooms/PlayRoom/PlayRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"RTitle","path":"rooms/RTitle/RTitle.yy",},},
     {"id":{"name":"scr_collision","path":"scripts/scr_collision/scr_collision.yy",},},
@@ -86,7 +85,6 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"PlayRoom","path":"rooms/PlayRoom/PlayRoom.yy",},},
     {"roomId":{"name":"RTitle","path":"rooms/RTitle/RTitle.yy",},},
   ],
   "templateType":"game",
