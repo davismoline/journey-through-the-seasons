@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_temp_pickup",
+  "%Name":"obj_apple",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_temp_pickup",
+  "name":"obj_apple",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_pickup",
-    "path":"sprites/spr_temp_pickup/spr_temp_pickup.yy",
+    "name":"apple",
+    "path":"sprites/apple/apple.yy",
   },
   "spriteMaskId":null,
   "visible":true,

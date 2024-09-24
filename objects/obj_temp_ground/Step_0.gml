@@ -5,17 +5,17 @@
 
 if (global.currentSeason = 0)
 {
-	sprite_index = spr_temp_summer
+	sprite_index = SummerTile9Slice
 }
 else if (global.currentSeason = 1)
 {
-	sprite_index = spr_temp_fall
+	sprite_index = FallTile9Slice
 }
 else if (global.currentSeason = 2)
 {
-	sprite_index = spr_temp_spring
+	sprite_index = WinterTile
 }
 else
 {
-	sprite_index = spr_temp_winter
+	sprite_index = SpringTile9Slice
 }

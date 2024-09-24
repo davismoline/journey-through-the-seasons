@@ -37,11 +37,11 @@
   "name":"Journey through the seasons",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"obj_apple","path":"objects/obj_apple/obj_apple.yy",},},
     {"id":{"name":"obj_killfloor","path":"objects/obj_killfloor/obj_killfloor.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_season_controller","path":"objects/obj_season_controller/obj_season_controller.yy",},},
     {"id":{"name":"obj_temp_ground","path":"objects/obj_temp_ground/obj_temp_ground.yy",},},
-    {"id":{"name":"obj_temp_pickup","path":"objects/obj_temp_pickup/obj_temp_pickup.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"oEnemyDefeat","path":"objects/oEnemyDefeat/oEnemyDefeat.yy",},},
     {"id":{"name":"PlayRoom","path":"rooms/PlayRoom/PlayRoom.yy",},},
