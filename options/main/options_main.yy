@@ -6,7 +6,11 @@
   "option_collision_compatibility":false,
   "option_copy_on_write_enabled":false,
   "option_draw_colour":4294967295,
+<<<<<<< Updated upstream
   "option_gameguid":"1dad169e-936c-4f4c-84b3-f263f125c617",
+=======
+  "option_gameguid":"3b97f950-396d-4c76-9124-6ccd6984e687",
+>>>>>>> Stashed changes
   "option_gameid":"0",
   "option_game_speed":60,
   "option_mips_for_3d_textures":false,
