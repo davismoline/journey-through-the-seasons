@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_temp_summer",
-    "path":"sprites/spr_temp_summer/spr_temp_summer.yy",
+    "name":"SummerTile9Slice",
+    "path":"sprites/SummerTile9Slice/SummerTile9Slice.yy",
   },
   "spriteMaskId":null,
   "visible":true,
