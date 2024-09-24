@@ -10,4 +10,8 @@ if (seasonSwap)
 	{
 		global.currentSeason = 0
 	}
+	if(global.currentSeason = 0)
+	{
+		layer_background_change(layer_background_get_id(Background),BGSummer)
+	}
 }
