@@ -11,7 +11,7 @@ vspeed = 0;
 grav = .5;
 
 //this is the jump strength that we use for our jump
-jump_strength = -1;
+jump_strength = -5;
 
 // this is the base value for our movement speed
 move_speed = 4; 
@@ -24,6 +24,8 @@ image_xscale = 1;
 
 // this is just checking to see if the player is jumping or not 
 jumping = false; 
+
+ice_sticking = false;
 
 //we are setting the cursor to none when the player is on screen 
 window_set_cursor(cr_none)
