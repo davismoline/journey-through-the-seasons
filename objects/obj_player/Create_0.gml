@@ -7,8 +7,9 @@ hsp = 0;
 vsp = 0;
 jumpSpeed = 15;
 grav = .6;
-onGround = false;
 
 // object interaction variables
 holding = 0
-held = 0
+pickup = 0
+holdCooldown = 0
+throwDirection = 1
