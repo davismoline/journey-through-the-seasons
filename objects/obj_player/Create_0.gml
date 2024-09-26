@@ -19,3 +19,8 @@ onVines = false;
 // object interaction variables
 holding = 0;
 held = 0;
+// object interaction variables
+
+pickup = 0
+holdCooldown = 0
+throwDirection = 1

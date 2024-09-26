@@ -69,6 +69,38 @@ if (!place_meeting(x, y + 1, obj_temp_ground) && place_meeting(x, y, obj_vines))
 	vsp = (climbUp + climbDown) * moveSpeed;
 }
 
+if (spawning)
+{
+	falling = 1
+	if (place_meeting(x, y, obj_ground))
+	{
+		falling = 0
+		vspeed = 0
+		spawning = 0
+	}
+}
+
+// movement when thrown
+if (thrown)
+{
+	hspeed = (10 * thrownDirection)
+	vspeed = -10
+	falling = 1
+	thrown = 0
+}
+
+//adds gravity after throw arc
+if (falling)
+{
+	image_alpha = 1
+	vspeed += 1
+}
+
+if (image_alpha = 0)
+{
+	instance_destroy()
+}
+
 x += hsp;
 y += vsp;
 
