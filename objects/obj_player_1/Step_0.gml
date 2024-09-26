@@ -57,7 +57,7 @@ if (!place_meeting(x, y + 1, obj_temp_ground)) {
 	if (place_meeting(x - 1, y, obj_icefall) || place_meeting(x + 1, y, obj_icefall)) {
 		onIcefall = true;
 		vsp = 0;
-		vsp = (climbUp) * moveSpeed;
+		vsp = (climbDown + climbUp) * moveSpeed;
 	}
 }
 

@@ -3,11 +3,8 @@
 
 // movement variables
 moveSpeed = 9;
-
 hsp = 0;
 vsp = 0;
-climbDown = vsp
-climbUp = -vsp
 jumpSpeed = 15;
 grav = .6;
 onGround = false;

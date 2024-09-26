@@ -15,5 +15,5 @@ if (seasonSwap)
 var background_id = layer_get_id("BG_Summer")
 if(global.currentSeason = 0)
 	{
-		layer_background_
+		
 	}
