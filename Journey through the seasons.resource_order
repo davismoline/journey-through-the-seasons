@@ -17,8 +17,6 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_icefall","order":3,"path":"objects/obj_icefall/obj_icefall.yy",},
-    {"name":"obj_vines","order":4,"path":"objects/obj_vines/obj_vines.yy",},
     {"name":"oButton","order":1,"path":"objects/oButton/oButton.yy",},
     {"name":"oEnemyDefeat","order":2,"path":"objects/oEnemyDefeat/oEnemyDefeat.yy",},
     {"name":"RTitle","order":2,"path":"rooms/RTitle/RTitle.yy",},

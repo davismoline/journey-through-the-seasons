@@ -8,11 +8,7 @@ vsp = 0;
 jumpSpeed = 15;
 grav = .6;
 onGround = false;
-onIcefall = false;
-iceWallRight = false;
-iceWallLeft = false;
-onVines = false;
 
 // object interaction variables
-holding = 0;
-held = 0;
+holding = 0
+held = 0
