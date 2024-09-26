@@ -67,6 +67,7 @@ if (!place_meeting(x, y + 1, obj_temp_ground) && place_meeting(x, y, obj_vines))
 	onVines = true;
 	vsp = 0;
 	vsp = (climbUp + climbDown) * moveSpeed;
+	vsp -= 10
 }
 
 x += hsp;

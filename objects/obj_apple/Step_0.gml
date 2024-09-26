@@ -18,7 +18,7 @@ else
 if (spawning)
 {
 	falling = 1
-	if (place_meeting(x, y, obj_ground))
+	if (place_meeting(x, y, obj_temp_ground))
 	{
 		falling = 0
 		vspeed = 0

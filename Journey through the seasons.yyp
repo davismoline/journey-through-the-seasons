@@ -53,8 +53,10 @@
     {"id":{"name":"obj_vines","path":"objects/obj_vines/obj_vines.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"oEnemyDefeat","path":"objects/oEnemyDefeat/oEnemyDefeat.yy",},},
+    {"id":{"name":"RLose","path":"rooms/RLose/RLose.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"RTitle","path":"rooms/RTitle/RTitle.yy",},},
+    {"id":{"name":"RWin","path":"rooms/RWin/RWin.yy",},},
     {"id":{"name":"scr_collision","path":"scripts/scr_collision/scr_collision.yy",},},
     {"id":{"name":"scr_controls","path":"scripts/scr_controls/scr_controls.yy",},},
     {"id":{"name":"enemy_dies","path":"sounds/enemy_dies/enemy_dies.yy",},},
@@ -105,8 +107,10 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"RTitle","path":"rooms/RTitle/RTitle.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"RLose","path":"rooms/RLose/RLose.yy",},},
+    {"roomId":{"name":"RWin","path":"rooms/RWin/RWin.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
