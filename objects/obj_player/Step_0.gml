@@ -72,12 +72,12 @@ if (!place_meeting(x, y + 1, obj_temp_ground) && place_meeting(x, y, obj_vines))
 x += hsp;
 y += vsp;
 
-/*
-if (holding)
+// throw direction changes based on last input
+if (moveLeft = -1)
 {
-	if (interact)
-	{
-		holding = 0
-	}
+	throwDirection = -1
 }
-*/
+if (moveRight = 1)
+{
+	throwDirection = 1
+}
